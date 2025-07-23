@@ -13,7 +13,7 @@
 <br/>
 <div>
   <a href="https://github.com/tsiquela28">
-  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=rtsiquela28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=tsiquela28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" style="width: 49%; float: right; margin: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsiquela28&count_private=true&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
