@@ -1,17 +1,36 @@
-## Salve 👋
+# Guilherme Luiz Lange
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermelange/)](https://www.linkedin.com/in/thiago-ranieri-siquela-991824211/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tsiquela28@gmail.com)](mailto:tsiquela28@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsiquela28&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  SRE Analyst 💻
+</p>
+• 🏠 From Apiúna-SC.<br/>
+• 🎓 Software engineering - UDESC.
+<br/>
+<br/>
+<br/>
+<div>
+  <a href="https://github.com/tsiquela28">
+  <img height="180em" style="width: 49%; float: left; margin: none;" src="https://github-readme-stats.vercel.app/api?username=rtsiquela28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="width: 49%; float: right; margin: none;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsiquela28&count_private=true&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+## Stacks I'm currently interested in:
 
-## Knowledge 
-![Terraform](https://img.shields.io/badge/-Terraform-7B42F4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Technologies**
+<p>
+<img title="Python" height="42" src="https://img.icons8.com/color/50/000000/python.png" alt="python"/>
+<img title="Ansible" height="42" src="https://img.icons8.com/color/48/000000/ansible.png" alt="ansible"/>
+<img title="Terraform" height="42" src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform"/>
+<img title="Docker" height="42" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
+<img title="Kubernetes" height="42" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
+<img title="Grafana" height="42" src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana"/>
+<img title="Prometheus" height="42" src="https://img.icons8.com/color/48/000000/prometheus.png" alt="prometheus"/>
+</p>
 
-## Social media
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](SEU_LINK_DO_LINKEDIN)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:SEU_EMAIL)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](SEU_LINK_DO_TELEGRAM)
+**Data**
+<p>
+<img title="PostgreSQL" height="38" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+</p>
