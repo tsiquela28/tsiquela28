@@ -27,7 +27,6 @@
 <img title="Docker" height="42" src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
 <img title="Kubernetes" height="42" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
 <img title="Grafana" height="42" src="https://img.icons8.com/color/48/000000/grafana.png" alt="grafana"/>
-<img title="Prometheus" height="42" src="https://img.icons8.com/color/48/000000/prometheus.png" alt="prometheus"/>
 </p>
 
 **Data**
