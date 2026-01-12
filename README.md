@@ -35,6 +35,7 @@ I work with automation, observability, and infrastructure as code, always aiming
 ### 📈 Observability
 <p>
   <img title="Grafana" height="42" src="https://img.icons8.com/color/48/000000/grafana.png"/>
+  <img title="Kibana" height="42" src="https://img.icons8.com/color/48/000000/kibana.png"/>
 </p>
 
 ### 🧠 Scripting & Automation
