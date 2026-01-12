@@ -16,16 +16,6 @@ I work with automation, observability, and infrastructure as code, always aiming
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/tsiquela28">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tsiquela28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsiquela28&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
----
-
 ## 🛠️ Technologies & Tools
 
 ### ☁️ SRE / DevOps
